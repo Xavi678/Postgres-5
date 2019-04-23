@@ -20,7 +20,7 @@ camp nom).
 
 SELECT nom, numalumnes FROM assignatura ORDER BY 3;
 
- - Perquè l'order by tres no significa res
+   - Perquè l'order by tres no significa res
    
 6) Obtenir el llistat de tots els alumnes majors d’edat (igual o major que de 18 anys),
 classificant-los per la ciutat d'origen en ordre creixent i per la seva edat en ordre decreixent
